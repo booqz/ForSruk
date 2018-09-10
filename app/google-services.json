@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "746149846159",
+    "firebase_url": "https://genji2-45731.firebaseio.com",
+    "project_id": "genji2-45731",
+    "storage_bucket": "genji2-45731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746149846159:android:b3fe91759af545b5",
+        "android_client_info": {
+          "package_name": "com.funcriper.genji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746149846159-7g63mtamt5gp3646dn02nd44qk2n0slm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZHi1Q1i0Dlv6sHXY17lfvgtrTxsB3xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
